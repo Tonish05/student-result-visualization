@@ -40,7 +40,7 @@ student-result-visualization/
 ## How to Use
 1. Open `student_performance_analysis.ipynb` in Google Colab to view data preprocessing.
 2. Open `student_result_dashboard.twbx` in Tableau Desktop/Public to interact with the dashboard.
-3. Tableau Dashboard File: [`Book1.twb`](Book1.twb)  
+3. Tableau Dashboard File: [`Book1.twb`](https://github.com/Tonish05/student-result-visualization/blob/main/student_performance_dash.twb)  
     Open this in Tableau Public to interact with the dashboard.
 
 
