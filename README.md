@@ -1,5 +1,5 @@
 # Student-Result-Visualization
-This project is part of the online internship offered by GUVI - HCL. The goal is to analyze student academic performance data and create an interactive dashboard to visualize key insights like average scores, pass percentages, grade distribution, and overall trends.
+This project is part of the online internship offered by GUVI - HCL. The goal is to analyze student academic performance data and create an interactive dashboard to visualize key insights like average scores, pass percentages, grade distribution, and overall trends.(guvi project 1)
 
 # Project Structure
 student-result-visualization/
